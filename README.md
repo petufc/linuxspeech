@@ -16,6 +16,6 @@
 		- Turn on  : Habilita a execução das funções
 		- Goodbye  : Finaliza o script 
 	- OBS: É necessário ter acesso a internet
-
+	- Execute o arquivo voice_main.py
 
  Em caso de dúvidas entre em contato pelo e-mail stringdanielf@gmail.com
